@@ -13,7 +13,6 @@ This extension provides seamless integration between Raycast and Google Antigrav
 ## ✨ Features
 
 - **Search Recent Projects** - Instantly access your recently opened Antigravity projects from the IDE's history
-- **Open Project** - Browse and open any project from your configured project root directory
 - **Open File/Folder** - Quick file and folder picker to open items directly in Antigravity
 - **Open New Window** - Launch a new Antigravity window with a single command
 

@@ -9,7 +9,6 @@ Control Google Antigravity IDE from Raycast.
 ## Features
 
 - **Search Recent Projects**: Access your recently opened projects from Antigravity's history.
-- **Open Project**: Browse and open projects from your configured project root.
 - **Open File/Folder**: Quickly open files or folders in Antigravity.
 - **Open New Window**: Launch a new Antigravity window.
 
