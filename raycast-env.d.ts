@@ -20,30 +20,18 @@ declare type Preferences = ExtensionPreferences
 declare namespace Preferences {
   /** Preferences accessible in the `search-recent-projects` command */
   export type SearchRecentProjects = ExtensionPreferences & {}
-  /** Preferences accessible in the `open-project` command */
-  export type OpenProject = ExtensionPreferences & {}
-  /** Preferences accessible in the `open-file` command */
-  export type OpenFile = ExtensionPreferences & {}
+  /** Preferences accessible in the `open-file-folder` command */
+  export type OpenFileFolder = ExtensionPreferences & {}
   /** Preferences accessible in the `open-new-window` command */
   export type OpenNewWindow = ExtensionPreferences & {}
-  /** Preferences accessible in the `show-installed-extensions` command */
-  export type ShowInstalledExtensions = ExtensionPreferences & {}
-  /** Preferences accessible in the `open-with-antigravity` command */
-  export type OpenWithAntigravity = ExtensionPreferences & {}
 }
 
 declare namespace Arguments {
   /** Arguments passed to the `search-recent-projects` command */
   export type SearchRecentProjects = {}
-  /** Arguments passed to the `open-project` command */
-  export type OpenProject = {}
-  /** Arguments passed to the `open-file` command */
-  export type OpenFile = {}
+  /** Arguments passed to the `open-file-folder` command */
+  export type OpenFileFolder = {}
   /** Arguments passed to the `open-new-window` command */
   export type OpenNewWindow = {}
-  /** Arguments passed to the `show-installed-extensions` command */
-  export type ShowInstalledExtensions = {}
-  /** Arguments passed to the `open-with-antigravity` command */
-  export type OpenWithAntigravity = {}
 }
 

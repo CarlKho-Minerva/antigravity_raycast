@@ -18,17 +18,10 @@
       "mode": "view"
     },
     {
-      "name": "open-project",
-      "title": "Open Project",
+      "name": "open-file-folder",
+      "title": "Open File/Folder",
       "subtitle": "Antigravity",
-      "description": "Open a project in Antigravity",
-      "mode": "view"
-    },
-    {
-      "name": "open-file",
-      "title": "Open File",
-      "subtitle": "Antigravity",
-      "description": "Open a file in Antigravity",
+      "description": "Open a file or folder in Antigravity",
       "mode": "view"
     },
     {
@@ -36,20 +29,6 @@
       "title": "Open New Window",
       "subtitle": "Antigravity",
       "description": "Open a new Antigravity window",
-      "mode": "no-view"
-    },
-    {
-      "name": "show-installed-extensions",
-      "title": "Show Installed Extensions",
-      "subtitle": "Antigravity",
-      "description": "List installed Antigravity extensions",
-      "mode": "view"
-    },
-    {
-      "name": "open-with-antigravity",
-      "title": "Open with Antigravity",
-      "subtitle": "Antigravity",
-      "description": "Open selected Finder items in Antigravity",
       "mode": "no-view"
     }
   ],
